@@ -17,7 +17,7 @@
 ![신성한 엘모어의 갑옷](https://static.inven.co.kr/image_2011/game/item/lineage/armor/HolyElmorArmor.png)
 - **종류:** 방어구
 - **주요효과:** 높은 방어력, 마법 저항력 증가
-- **방어력:** AC -8, MR +10%
+- **방어력:** AC -8, MR +30%
 - **드랍률:** 매우 낮음 (엘모어 보스 드랍)
 
 ### 마법사의 모자
